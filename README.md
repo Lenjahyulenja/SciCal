@@ -1,3 +1,4 @@
 # SciCal
-Scientific Calculator by BSUIR. 
-ИНЖенерный КАЛькулятор
+Scientific Calculator:
++Курсовая работа по Программированию.
++Разработчик Леонид Жданок гр. 553503 БГУИР
