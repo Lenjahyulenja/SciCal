@@ -1,3 +1,3 @@
 # SciCal
-Scientific Calculator by BSUIR
+Scientific Calculator by BSUIR. 
 ИНЖенерный КАЛькулятор
